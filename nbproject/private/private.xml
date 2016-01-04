@@ -2,14 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/Users/Federico%20Domínguez/Documents/NetBeansProjects/VisualizacionAcelerometro/src/ec/espol/visualizacionacelerometro/control/VisualizacionAcelerometro.java</file>
-            <file>file:/C:/Users/Federico%20Domínguez/Documents/NetBeansProjects/VisualizacionAcelerometro/src/ec/espol/visualizacionacelerometro/data/AccDataParser.java</file>
-            <file>file:/C:/Users/Federico%20Domínguez/Documents/NetBeansProjects/VisualizacionAcelerometro/src/ec/espol/visualizacionacelerometro/data/SerialDataCollection.java</file>
-            <file>file:/C:/Users/Federico%20Domínguez/Documents/NetBeansProjects/VisualizacionAcelerometro/src/ec/espol/visualizacionacelerometro/data/DataCollectionInterface.java</file>
-            <file>file:/C:/Users/Federico%20Domínguez/Documents/NetBeansProjects/VisualizacionAcelerometro/src/ec/espol/visualizacionacelerometro/data/DataFilterInterface.java</file>
-            <file>file:/C:/Users/Federico%20Domínguez/Documents/NetBeansProjects/VisualizacionAcelerometro/src/ec/espol/visualizacionacelerometro/GUI/VisualizacionFrame.java</file>
-            <file>file:/C:/Users/Federico%20Domínguez/Documents/NetBeansProjects/VisualizacionAcelerometro/src/ec/espol/visualizacionacelerometro/data/EMAFilter.java</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>

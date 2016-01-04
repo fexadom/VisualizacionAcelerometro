@@ -243,7 +243,7 @@ public class VisualizacionFrame extends javax.swing.JFrame {
         visualizacionInternalFrame = new javax.swing.JInternalFrame();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("Visualización Acelerometro");
+        setTitle("Visualización Acelerómetro");
         setIconImage(iconFrame20.getImage());
         setIconImages(icons);
         addWindowListener(new java.awt.event.WindowAdapter() {
@@ -275,7 +275,7 @@ public class VisualizacionFrame extends javax.swing.JFrame {
         puertosComboBox.setToolTipText("Seleccione puerto serial");
 
         coneccionLabel.setIcon(new javax.swing.ImageIcon(getClass().getResource("/resources/off_light.png"))); // NOI18N
-        coneccionLabel.setText("Conección");
+        coneccionLabel.setText("Conexión");
         coneccionLabel.setToolTipText("Estado conección");
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
@@ -303,7 +303,7 @@ public class VisualizacionFrame extends javax.swing.JFrame {
                     .addComponent(coneccionLabel))
                 .addGap(18, 18, 18)
                 .addComponent(pararButton)
-                .addContainerGap(34, Short.MAX_VALUE))
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
 
         jPanel2.setBorder(javax.swing.BorderFactory.createTitledBorder("Filtro EMA"));
@@ -312,7 +312,6 @@ public class VisualizacionFrame extends javax.swing.JFrame {
         alphaSlider.setMajorTickSpacing(10);
         alphaSlider.setMinorTickSpacing(2);
         alphaSlider.setToolTipText("Valor de alpha");
-        alphaSlider.setValue(50);
         alphaSlider.addChangeListener(new javax.swing.event.ChangeListener() {
             public void stateChanged(javax.swing.event.ChangeEvent evt) {
                 alphaSliderStateChanged(evt);
@@ -358,7 +357,7 @@ public class VisualizacionFrame extends javax.swing.JFrame {
                         .addComponent(alphaText, javax.swing.GroupLayout.PREFERRED_SIZE, 40, javax.swing.GroupLayout.PREFERRED_SIZE)
                         .addGap(18, 18, 18)
                         .addComponent(jLabel6)
-                        .addContainerGap(84, Short.MAX_VALUE))))
+                        .addContainerGap(90, Short.MAX_VALUE))))
             .addGroup(jPanel2Layout.createSequentialGroup()
                 .addGap(197, 197, 197)
                 .addComponent(jLabel3)
