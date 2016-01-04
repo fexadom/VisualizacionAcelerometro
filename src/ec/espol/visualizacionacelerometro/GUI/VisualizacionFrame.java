@@ -276,7 +276,7 @@ public class VisualizacionFrame extends javax.swing.JFrame {
 
         coneccionLabel.setIcon(new javax.swing.ImageIcon(getClass().getResource("/resources/off_light.png"))); // NOI18N
         coneccionLabel.setText("Conexión");
-        coneccionLabel.setToolTipText("Estado conección");
+        coneccionLabel.setToolTipText("Estado conexión");
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);

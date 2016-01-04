@@ -141,7 +141,7 @@
               <Image iconType="3" name="/resources/off_light.png"/>
             </Property>
             <Property name="text" type="java.lang.String" value="Conexi&#xf3;n"/>
-            <Property name="toolTipText" type="java.lang.String" value="Estado conecci&#xf3;n"/>
+            <Property name="toolTipText" type="java.lang.String" value="Estado conexi&#xf3;n"/>
           </Properties>
         </Component>
       </SubComponents>
