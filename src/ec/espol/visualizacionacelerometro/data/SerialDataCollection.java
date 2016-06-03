@@ -130,7 +130,7 @@ public class SerialDataCollection implements DataCollectionInterface, SerialPort
                 serialPort = (SerialPort) commPort;
                 
                 //Default serial parameters for most devices (Arduino, XBee, etc.)
-                serialPort.setSerialPortParams(9600,SerialPort.DATABITS_8,SerialPort.STOPBITS_1,SerialPort.PARITY_NONE);
+                serialPort.setSerialPortParams(115200,SerialPort.DATABITS_8,SerialPort.STOPBITS_1,SerialPort.PARITY_NONE);
                 
                 inStream = serialPort.getInputStream();
                 
