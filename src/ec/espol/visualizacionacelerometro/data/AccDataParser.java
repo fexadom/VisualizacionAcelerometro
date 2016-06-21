@@ -30,7 +30,7 @@ public class AccDataParser {
     private String separator;
     
     //Maximum G reading supported by the acceleromenter
-    public final double MAX_G = 5;
+    public final double MAX_G = 3;
     
     //Arduino ADC reference voltage
     public final double V_ARDUINO_REF = 5;
